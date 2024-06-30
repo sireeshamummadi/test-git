@@ -22,3 +22,16 @@ This is another paragraph.*This part is going to italics*.** this part is going 
 [This is website](https:/yush.dev)
 
 ![Markdown Image](https://images.unsplash.com/photo-1509043759401-136742328bb3?q=80&w=1535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+---
+# List:
+
+- Item1
+- Item2
+- Item3
+    - Item 3.1
+    - Item 3.2
+
+1. Item A
+2. Item B
+3. Item c
